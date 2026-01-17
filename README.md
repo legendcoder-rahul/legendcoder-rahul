@@ -10,24 +10,6 @@
 
 🌐 Connect With Me
 
-🛠️ Skills & Technologies
-👨‍💻 Programming Languages
-
-HTML CSS JavaScript TypeScript C++
-
-⚛️ Frontend & Mobile
-
-React React Native Expo Next.js Vite Tailwind CSS
-
-🔄 State Management & Forms
-
-Redux Toolkit React Redux React Hook Form
-
-🌐 Backend & APIs
-
-Node.js Express.js REST APIs Firebase
-
-🗄️ Databases
 
 MongoDB MySQL Firebase Firestore
 
